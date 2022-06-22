@@ -1,18 +1,18 @@
-# React Native Tips
+# ReactJS Tips
 
 This repo will show you the tips in ReactJS, this is my experience when I'm working on it. I also have references from other places!
 
 ### Here is the tips
 
 - [React Hooks](#react-hooks)
-  - [useEvent](#use-event)
+  - [Working with useEvent](#working-with-useEvent)
 - [React Redux](#react-redux)
   - [Use shallow compare for `useSelector`](#use-shallow-compare-for-useSelector)
   - [Only defined the values we want to use](#only-defined-the-values-we-want-to-use)
 
 # React Navigation
 
-1. #### useEvent()
+### Working with `useEvent`
     The useEvent hook will keep the function reference and not recreate between components re-rendered.
 - Why `useEvent`?
     Consider the following code snippet:

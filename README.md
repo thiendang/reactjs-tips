@@ -186,6 +186,8 @@ It’s NOT working. Since “updateMembers” is marked as an event. The useEffe
 ### Conclusions
 The useEvent can solve the issue of revalidating too much of the useCallback or answer the question (should I useCallback everywhere?).
 
+<em>Source: https://blog.devgenius.io/react-hook-useevent-aa2bc203574d</em>
+
 **[⬆ Back to Top](#here-is-the-tips)**
 
 # React Redux
